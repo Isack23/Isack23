@@ -1,4 +1,4 @@
-### Olá sou Isac Lopes, estou estudando programção!!
+### Olá sou Isac Lopes, estou estudando programação!!
 #
 - 🔭 Em busta de oportunidades de trabalho
 - 🌱 Estou estudando JavaScript
